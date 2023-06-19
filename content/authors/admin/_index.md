@@ -31,8 +31,8 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Civil Aviation University of China
+    url: https://www.cauc.edu.cn/zhv4/
 education:
   courses:
     - course: PhD in Artificial Intelligence
